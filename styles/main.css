@@ -1,0 +1,22 @@
+.landing {
+     position: relative;
+     min-height: 200px;
+     border: 200px;
+     border-color: black;
+     background-image: url(../assets/jpclogo.png);
+     background-size: 200px;
+     background-repeat: no-repeat;
+     background-position: center center;
+     background-size: center;
+     background-color: skyblue;
+ }
+
+.jpc-title {
+     color: black;
+     font-family: cursive;
+     position: relative;
+     padding-left: 380px;
+     padding-right: 180px;
+     margin-top: auto;
+     align-content: center;
+}
